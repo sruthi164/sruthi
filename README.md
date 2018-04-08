@@ -2,4 +2,4 @@
 
 This is GIT repository test project
 
-This is my second commit tests
+This is my second commit tests changed
